@@ -38,3 +38,4 @@
 •	отсутствие очередей в регистратуру.
 
 
+![image](https://user-images.githubusercontent.com/105455288/195443322-f88ab562-f88c-4d66-9516-d81791e1f6c1.png)
